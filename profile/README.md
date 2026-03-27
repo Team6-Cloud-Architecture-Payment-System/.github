@@ -1,3 +1,6 @@
+<img width="1175" height="431" alt="image" src="https://github.com/user-attachments/assets/a6dba7a4-af13-4795-a582-ffefee68f8b3" />
+
+
 # 🐾 Team6 — Cloud Architecture Payment System
 
 > 강아지 용품 이커머스 **견생보감**을 개발한 6인 팀입니다.  
